@@ -19,7 +19,7 @@
 <p><a href="https://www.buymeacoffee.com/patricklind"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patricklind" /></a></p>
 
 
-
+<h3 align="left">Support:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklind&show_icons=true&locale=en&layout=compact" alt="patricklind" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=patricklind&show_icons=true&locale=en" alt="patricklind" /></p>
