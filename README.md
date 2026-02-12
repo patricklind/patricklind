@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Cisco, Zabbix, python**
 
-- 📫 How to reach me **hejsevaerk01pasta@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
